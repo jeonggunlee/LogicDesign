@@ -50,7 +50,7 @@
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
       - 11주차: 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
-      - 12주차: Fixed-point vs Floating-point 
+      - 12주차: Fixed-point (고정소수점) vs Floating-point  (부동소수점)
       - 13주차: 메모리 / Logic Array
    - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**
       - Verilog HDL 소개

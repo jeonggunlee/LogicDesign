@@ -33,27 +33,27 @@
 
 ## 강의노트
    - **Chapter 1 :: From Zero to One (제로에서 하나까지!, PPT)**
-      - 1주차: 수업 소개
-      - 2주차: 논리 식에 대한 소개
+      - 1주차: 수업 소개: 왜 논리회로를 공부해야할까 ?
+      - 2주차: 수의 표현 / 논리소자 / CMOS 
       - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
    - **Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)**
-      - 4주차: 
-      - 5주차:
-      - 6주차: 
+      - 4주차: 부울 식 / 논리 회로
+      - 5주차: 카르노맵
+      - 6주차: 조합회로 빌딩 블럭
       
    - **7주차: 중간고사**
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
-      - 8주차:
-      - 9주차:
-      - 10주차:
+      - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
+      - 9주차: 유한 상태 기계 (Finite State Machine)
+      - 10주차: 순차회로의 타이밍 (Timing)
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
-      - 11주차:
-      - 12주차:
-      - 13주차:
+      - 11주차: 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
+      - 12주차: Fixed-point vs Floating-point 
+      - 13주차: 메모리 / Logic Array
    - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**
-      - 소개
+      - Verilog HDL 소개
       
    - **14주차: 기말고사**
    

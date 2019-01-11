@@ -12,7 +12,7 @@
 *  *  *
 
 ## 강의 스탭
-### 담당교수: 이정근
+### 담당교수: [이정근](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee) (소프트웨어융합대학, 빅데이터전공)
    - 연구실:(성호관 1306호실) / Email: Jeonggun.Lee (AT) gmail.com
    - 전화번호: 033-248-2312 (연구실)
    - 홈페이지: [www.onchip.net](www.onchip.net)

@@ -36,6 +36,7 @@
       - 1주차: 수업 소개: 왜 논리회로를 공부해야할까 ?
       - 2주차: 수의 표현 / 논리소자 / CMOS 
       - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
+         - [CPU 온도로 계란 익히기](https://www.youtube.com/watch?v=IxGtV0CmsT0)
    - **Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)**
       - 4주차: 부울 식 / 논리 회로
       - 5주차: 카르노맵

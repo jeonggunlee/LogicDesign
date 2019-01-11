@@ -32,30 +32,30 @@
    
 
 ## 강의노트
-   - Chapter 1 :: From Zero to One (제로에서 하나까지!, PPT)
+   - **Chapter 1 :: From Zero to One (제로에서 하나까지!, PPT)**
       - 1주차: 수업 소개
       - 2주차: 논리 식에 대한 소개
       - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
-   - Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)
+   - **Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)**
       - 4주차: 
       - 5주차:
       - 6주차: 
       
-   - 7주차: 중간고사
+   - **7주차: 중간고사**
    
-   - Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)
+   - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
       - 8주차:
       - 9주차:
       - 10주차:
       
-   - Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)
+   - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
       - 11주차:
       - 12주차:
       - 13주차:
-   - Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)
+   - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**
       - 소개
       
-   - 14주차: 기말고사
+   - **14주차: 기말고사**
    
 ## 실습
    ![Alt text](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/img/openss.png "오픈소스교과목")

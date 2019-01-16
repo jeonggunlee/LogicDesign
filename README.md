@@ -44,9 +44,10 @@
             - [네이버 클라우드 플랫폼의 CPU Intensive 서버](https://www.youtube.com/watch?v=o0fSu1iErGI)
             
       - 2주차: 수의 표현 / 논리소자 / CMOS 
-         - 가장 기초적인 데이터의 표현: 수의 표현 (양수/음수)
-         - 수를 다루는 회로 소자
-         - 현대 반도체 기술에 대한 소개
+         - 컴퓨터를 설계하는 가장 기초적인 작업: 데이터의 표현 - 수의 표현 (양수/음수)
+         - 특정 기능을 갖는 회로 블럭을 만드는 기본 회로 소자: AND, OR, NOT, NAND, NOR 등
+         - 현대 반도체 기술에 대한 소개 - CMOS / FinFET
+         
       - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
          - [CPU 온도로 계란 익히기](https://www.youtube.com/watch?v=IxGtV0CmsT0)
          

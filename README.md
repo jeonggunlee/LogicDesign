@@ -60,6 +60,7 @@
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
       - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
+         - 참조: [플립플롭 유튜브동영상](https://www.youtube.com/watch?v=n7iyMd2NsUk)
       - 9주차: 유한 상태 기계 (Finite State Machine)
       - 10주차: 순차회로의 타이밍 (Timing)
       

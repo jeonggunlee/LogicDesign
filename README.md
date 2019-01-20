@@ -56,8 +56,9 @@
             - [동영상:이진수의 음수개념](https://www.youtube.com/watch?v=TvpBEXOMitE)
             - [동영상:진법과 보수](https://www.youtube.com/watch?v=RF04L7KAmKA)
          - 특정 기능을 갖는 회로 블럭을 만드는 기본 회로 소자: AND, OR, NOT, NAND, NOR 등
-            - [동영상:마이크래프트를 이용한 논리회로 이해하기](https://www.youtube.com/watch?v=8BCHLK0Aets)
+            - [동영상:마인크래프트를 이용한 논리회로 이해하기](https://www.youtube.com/watch?v=8BCHLK0Aets)
             - [동영상:논리회로의 개념과 논리식](https://www.youtube.com/watch?v=KxO89jV2s8o)
+            - [자료:마인크래프트로 컴퓨터 만들기](https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8/%ED%9A%8C%EB%A1%9C)
          - 현대 반도체 기술에 대한 소개 - CMOS / FinFET
          
       - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제

@@ -49,6 +49,7 @@
             이러한 고성능 컴퓨터는 빠르게 발전한 CPU 및 GPU 등이 없었으면 불가능했음. 
             ```
             - [동영상:네이버 클라우드 플랫폼의 CPU Intensive 서버](https://www.youtube.com/watch?v=o0fSu1iErGI)
+            - 고성능 가속기 데모: 인텔® Movidius **Neural Compute Stick** 2
             
       - 2주차: 수의 표현 / 논리소자 / CMOS 
          - 컴퓨터를 설계하는 가장 기초적인 작업: 데이터의 표현 - 수의 표현 (양수/음수)

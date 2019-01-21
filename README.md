@@ -42,6 +42,10 @@
             ```
             최근 데이터 센터에서는 GPU, FPGA, ASIC 형태의 가속기를 서버에 장착 ... 된 프로세서 칩으로 빅데이터 시대에
             엄청난 양의 연산이 필요한 데이터 ...
+            
+            * GPU : Graphic Processing Unit
+            * FPGA : Field Programmable Gate Array
+            * ASIC : Application Specific Integrated Circuit
             ```
             
             ```

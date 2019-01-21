@@ -82,6 +82,7 @@
       - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
       - 9주차: 유한 상태 기계 (Finite State Machine)
+         - [동영상:Digital Logic - State Tables and State Diagrams](https://www.youtube.com/watch?v=2TGfiaCrL2s): 한국어 캡션 활용하기 바랍니다.
       - 10주차: 순차회로의 타이밍 (Timing)
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**

@@ -99,6 +99,7 @@
    - 실습 소프트웨어로써, **[LogiSim](http://www.cburch.com/logisim/)** 논리회로 설계 및 시뮬레이터를 사용합니다.
       - Logisim은 Open Source Software이며, 누구나 자유롭게 사용가능하며, 소스코드 역시 오픈되어 있고 수정 가능합니다.
          - It is free! (Logisim is open-source (GPL).)
+   ![Alt text](http://www.cburch.com/logisim/shot-2.7.0.png)         
       
 
 ## 참조 사이트

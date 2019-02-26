@@ -33,7 +33,7 @@
    
 
 ## 강의 스케줄 및 자료/노트
-   - **Chapter 1 :: From Zero to One (제로에서 하나까지!, PPT)**
+   - **Chapter 1 :: From Zero to One (제로에서 하나까지!, [PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch1.pdf))**
       - 1주차: 수업 소개: 왜 논리회로를 공부해야할까 ?
          - 인공지능, IoT (사물인터넷) 시대에 논리회로 및 컴퓨터 구조에 대한 이해는 왜 필요한가?
          - Cloud 컴퓨팅 회사들은 왜 하드웨어 칩을 데이터 센터에 집적하는 것일까 ?

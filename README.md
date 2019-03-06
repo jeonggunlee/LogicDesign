@@ -61,6 +61,11 @@
             - [자료:수의 표현](https://namu.wiki/w/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EC%88%98%20%ED%91%9C%ED%98%84)
             - [동영상:이진수의 음수개념](https://www.youtube.com/watch?v=TvpBEXOMitE)
             - [동영상:진법과 보수](https://www.youtube.com/watch?v=RF04L7KAmKA)
+            ```
+            컴퓨터에서 어떻게 양수 / 음수가 표현되는지에 대한 바른 이해와 표현된 이진수 값에 대해서 어떻게 더하기와 같은 
+            기본 연산이 수행되는지 반드시 숙지하기 바랍니다.
+            ```
+            
       - 3주차: 논리소자 / CMOS             
          - 특정 기능을 갖는 회로 블럭을 만드는 기본 회로 소자: AND, OR, NOT, NAND, NOR 등
             - [동영상:마인크래프트를 이용한 논리회로 이해하기](https://www.youtube.com/watch?v=8BCHLK0Aets)

@@ -34,7 +34,7 @@
 
 ## 강의 스케줄 및 자료/노트
    - **Chapter 1 :: From Zero to One (제로에서 하나까지!, [PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch1.pdf))**
-      - 1주차: 수업 소개: 왜 논리회로를 공부해야할까 ?
+      - 1주차 / 2월 26일: 수업 소개: 왜 논리회로를 공부해야할까 ?
          - 인공지능, IoT (사물인터넷) 시대에 논리회로 및 컴퓨터 구조에 대한 이해는 왜 필요한가?
          - Cloud 컴퓨팅 회사들은 왜 하드웨어 칩을 데이터 센터에 집적하는 것일까 ?
          
@@ -56,7 +56,7 @@
             - 고성능 가속기 데모: 인텔® Movidius **Neural Compute Stick** 2
                - [동영상:Deep Learning with Intel](https://www.youtube.com/watch?time_continue=343&v=KuM67WfTXBQ): 프로젝트에 딥러닝을 쉽게 활용하는 방법에 대해서 설명
             
-      - 2주차: 수의 표현
+      - 2주차 / 3월 5일: 수의 표현
          - 컴퓨터를 설계하는 가장 기초적인 작업: 데이터의 표현 - 수의 표현 (양수/음수)
             - [자료:수의 표현](https://namu.wiki/w/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EC%88%98%20%ED%91%9C%ED%98%84)
             - [동영상:이진수의 음수개념](https://www.youtube.com/watch?v=TvpBEXOMitE)

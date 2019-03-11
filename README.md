@@ -75,7 +75,7 @@
             - 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
             - [CPU 온도로 계란 익히기](https://www.youtube.com/watch?v=IxGtV0CmsT0)
          
-   - **Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)**
+   - **Chapter 2 :: Combinational Logic Design ([조합회로 설계, PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch2-%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C02.pdf))**
       - 4주차: 부울 식 / 논리 회로
       - 5주차: 카르노맵
       - 6주차: 조합회로 빌딩 블럭

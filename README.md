@@ -85,8 +85,10 @@
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
       - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
+         - [한림 Logisim: 03 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
       - 9주차: 유한 상태 기계 (Finite State Machine)
+         - [한림 Logisim: 04 카운터 회로 설계를 통한 순차회로의 이해](https://youtu.be/Cx1Od_c98Q4)
          - [동영상:Digital Logic - State Tables and State Diagrams](https://www.youtube.com/watch?v=2TGfiaCrL2s): 한국어 캡션 활용하기 바랍니다.
       - 10주차: 순차회로의 타이밍 (Timing)
       

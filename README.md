@@ -2,7 +2,7 @@
 ## 2019 봄학기, 한림대학교 소프트웨어융합대학 
 *  *  *
 ## [알림] Github 수업 페이지 오픈
-## [논리 회로 실습을 위한 동영자 리스트 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
+## [논리 회로 실습을 위한 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
 
 ## QnA는 [여기](./QnA.md)를 눌러 작성해주세요!
 
@@ -86,15 +86,17 @@
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
       - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
-         - [한림 Logisim: 03 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
+         - [Logisim: 05 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
       - 9주차: 유한 상태 기계 (Finite State Machine)
-         - [한림 Logisim: 04 카운터 회로 설계를 통한 순차회로의 이해](https://youtu.be/Cx1Od_c98Q4)
+         - [Logisim: 06 카운터 회로 설계를 통한 순차회로의 이해](https://youtu.be/Cx1Od_c98Q4)
          - [동영상:Digital Logic - State Tables and State Diagrams](https://www.youtube.com/watch?v=2TGfiaCrL2s): 한국어 캡션 활용하기 바랍니다.
       - 10주차: 순차회로의 타이밍 (Timing)
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
       - 11주차: 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
+         - [Logisim: 4비트 덧셈기 만들기](https://www.youtube.com/watch?v=FU6aV_a8NmY&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV&index=4&t=397s)
+         - [Logisim: 계층적 회로 설계](https://www.youtube.com/watch?v=CMCtOIVQy-M&index=4&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
       - 12주차: Fixed-point (고정소수점) vs Floating-point  (부동소수점)
       - 13주차: 메모리 / Logic Array
    - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**

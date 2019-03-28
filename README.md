@@ -2,6 +2,7 @@
 ## 2019 봄학기, 한림대학교 소프트웨어융합대학 
 *  *  *
 ## [알림] Github 수업 페이지 오픈
+## [논리 회로 실습을 위한 동영자 리스트 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
 
 ## QnA는 [여기](./QnA.md)를 눌러 작성해주세요!
 

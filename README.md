@@ -3,7 +3,7 @@
 *  *  *
 ## [알림] Github 수업 페이지 오픈
 ## [논리 회로 실습을 위한 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
-## 중간 고사: 4월 15일 오후 1시 강의실에서 진행
+## 중간 고사: 4월 16일 오후 1시 강의실에서 진행
 
 ## QnA는 [여기](./QnA.md)를 눌러 작성해주세요!
 

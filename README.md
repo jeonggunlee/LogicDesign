@@ -79,6 +79,7 @@
    - **Chapter 2 :: Combinational Logic Design ([조합회로 설계, PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch2-%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C02.pdf))**
       - 4주차: 부울 식 / 논리 회로
       - 5주차: 카르노맵
+         - [2, 3, 4 변수 카르노맵](https://www.youtube.com/watch?v=X8rm4lRON3k)
       - 6주차: 조합회로 빌딩 블럭
          - [동영상:조합회로와 논리회로](https://www.youtube.com/watch?v=zaWp0U3tXv4&list=PLrFy4sCm2owoj-O71kjLoNc_dMEVzUYlR&index=6)
          

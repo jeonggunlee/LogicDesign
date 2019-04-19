@@ -79,8 +79,10 @@
          
    - **Chapter 2 :: Combinational Logic Design ([조합회로 설계, PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch2-%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C02.pdf))**
       - 4주차: 부울 식 / 논리 회로
+         - 실습: 부울식 최적화 문제풀이 및 연습
       - 5주차: 카르노맵
          - [2, 3, 4 변수 카르노맵](https://www.youtube.com/watch?v=X8rm4lRON3k)
+         - 실습: 카르노맵을 활용한 최적화 문제풀이 및 연습
       - 6주차: 조합회로 빌딩 블럭
          - [동영상:조합회로와 논리회로](https://www.youtube.com/watch?v=zaWp0U3tXv4&list=PLrFy4sCm2owoj-O71kjLoNc_dMEVzUYlR&index=6)
          
@@ -88,6 +90,7 @@
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
       - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
+         - 중간 고사 리뷰
          - [Logisim: 05 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
       - 9주차: 유한 상태 기계 (Finite State Machine)

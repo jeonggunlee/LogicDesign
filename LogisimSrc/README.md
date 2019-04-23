@@ -6,5 +6,6 @@
    * flipflop.circ : Flip-Flop 설계 (SR-Latch --> D-Latch --> D-Flip-Flop)
    * 신호등제어기.circ : 신호등 제어기 회로 설계 및 애니메이션
    * decoder-7-seg-74HC49.circ : BCD to 7 세그먼트 디코더
+   * bcd_7Seg_Test.circ: 4비트로 7세그먼트 제어해보기
    
    

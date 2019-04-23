@@ -3,6 +3,8 @@
 *  *  *
 ## [알림] Github 수업 페이지 오픈
 ## [논리 회로 실습을 위한 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
+   - [4비트 카운터 설계](https://www.youtube.com/watch?v=c6Q2eoO3ZYw&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV&index=9&t=3s) 동영상이 추가되었습니다. 확인하세요!
+      
 ## 중간 고사: 4월 16일 오후 1시 강의실에서 진행
 
 ## QnA는 [여기](./QnA.md)를 눌러 작성해주세요!

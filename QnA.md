@@ -16,5 +16,7 @@
        
 > 질문> 교수님! 5월14일(화)에 열리는 오픈소스 SW BOOT CAMP (미니 컨트리뷰-톤) 너무 참여하고싶습니다!
 
-> 답변> 
+> 답변> 누구나 참여할 수 있습니다. 참여 신청해주시면 됩니다!
+        
+        https://docs.google.com/forms/d/e/1FAIpQLSfnWUOTI5T6K0f4UxZmMGwEdUwQnrI-MbzlUWMjCk1RXDh33Q/viewform
        

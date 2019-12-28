@@ -4,8 +4,6 @@
 
 ## [알림] Github 수업 페이지 오픈
 ## [논리 회로 실습을 위한 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
-   - [4비트 카운터 설계](https://www.youtube.com/watch?v=c6Q2eoO3ZYw&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV&index=9&t=3s) 동영상이 추가되었습니다. 확인하세요!
-## Logisim 라이브러리 추가에 대한 자료 [여기](http://www.learnabout-electronics.org/Digital/dig46.php)      
 ## 질문은 [Issues] 생성을 이용해주세요!
 
 *  *  *

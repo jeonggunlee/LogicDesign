@@ -20,7 +20,7 @@
 <img src="https://sites.google.com/site/embeddedsochallymuniv/_/rsrc/1307936693055/esoc/jeonggunlee/jglee.JPG" height="200" width="162">
 
 ### 담당조교: 김동영
-   - (Email: billy009100@naver.com, 연구실: 성호관 1211 임베디드 SoC 연구실)
+   - (Email: dongyoung0218@gmail.com, 연구실: 성호관 1211 임베디드 SoC 연구실)
    
 ## 교재
    - 주교재: "[디지털논리와 컴퓨터설계](http://www.yes24.com/24/goods/3311366)," 데이비드 해리스,사라 해리스 공저/조영완 등역, 사이텍미디어

@@ -85,28 +85,29 @@
       - 6주차: 조합회로 빌딩 블럭
          - [동영상:조합회로와 논리회로](https://www.youtube.com/watch?v=zaWp0U3tXv4&list=PLrFy4sCm2owoj-O71kjLoNc_dMEVzUYlR&index=6)
          
-   - **7주차: 중간고사**
-   
+    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
-      - 8주차: 래치 및 플립플롭 (Latch and Flip-Flop)
+      - 6주차: 래치 및 플립플롭 (Latch and Flip-Flop)
          - 중간 고사 리뷰
          - [Logisim: 05 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
-      - 9주차: 유한 상태 기계 (Finite State Machine)
+         
+- **7주차: 복습의 시간~**
+
+      - 8주차(5월4-8): 유한 상태 기계 (Finite State Machine)
          - [Logisim: 06 카운터 회로 설계를 통한 순차회로의 이해](https://youtu.be/Cx1Od_c98Q4)
          - [동영상:Digital Logic - State Tables and State Diagrams](https://www.youtube.com/watch?v=2TGfiaCrL2s): 한국어 캡션 활용하기 바랍니다.
-      - 10주차: 순차회로의 타이밍 (Timing)
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
-      - 11주차: 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
+      - 9주차-10주차 (5월 11-22): 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
          - [Logisim: 4비트 덧셈기 만들기](https://www.youtube.com/watch?v=FU6aV_a8NmY&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV&index=4&t=397s)
          - [Logisim: 계층적 회로 설계](https://www.youtube.com/watch?v=CMCtOIVQy-M&index=4&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
-      - 12주차: Fixed-point (고정소수점) vs Floating-point  (부동소수점)
-      - 13주차: 메모리 / Logic Array
+      - 11주차 (5월25-29): Fixed-point (고정소수점) vs Floating-point  (부동소수점)
+      - 11주차 (5월25-29): 메모리 / Logic Array
    - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**
-      - Verilog HDL 소개
+      - 12주차 - 13주차 (6월 1-12): Verilog HDL 소개
       
-   - **14주차: 기말고사**
+   - **14주차 (6월 15-19): 기말고사**
    
 ## 실습
    ![Alt text](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/img/openss.png "오픈소스교과목")

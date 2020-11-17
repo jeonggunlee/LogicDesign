@@ -139,80 +139,80 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(980,430)" to="(990,430)"/>
     <wire from="(850,340)" to="(860,340)"/>
     <wire from="(880,430)" to="(890,430)"/>
-    <comp lib="5" loc="(970,330)" name="LED"/>
+    <comp lib="5" loc="(890,300)" name="LED"/>
+    <comp lib="5" loc="(980,350)" name="LED"/>
+    <comp lib="5" loc="(990,370)" name="LED"/>
+    <comp lib="5" loc="(950,230)" name="LED"/>
+    <comp lib="1" loc="(160,390)" name="Controlled Buffer"/>
+    <comp lib="5" loc="(890,280)" name="LED"/>
+    <comp lib="0" loc="(100,390)" name="Clock"/>
+    <comp lib="6" loc="(331,361)" name="Text">
+      <a name="text" val="Rock"/>
+    </comp>
+    <comp lib="5" loc="(840,280)" name="LED"/>
+    <comp lib="1" loc="(670,240)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="0" loc="(340,480)" name="Pin">
+      <a name="width" val="2"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="5" loc="(980,310)" name="LED"/>
     <comp lib="5" loc="(950,270)" name="LED"/>
+    <comp lib="5" loc="(790,360)" name="LED"/>
+    <comp lib="5" loc="(1000,270)" name="LED"/>
+    <comp lib="5" loc="(880,400)" name="LED"/>
+    <comp lib="5" loc="(970,390)" name="LED"/>
+    <comp lib="5" loc="(970,330)" name="LED"/>
+    <comp lib="5" loc="(890,200)" name="LED"/>
+    <comp lib="5" loc="(890,260)" name="LED"/>
+    <comp lib="0" loc="(340,380)" name="Pin">
+      <a name="width" val="2"/>
+      <a name="tristate" val="false"/>
+    </comp>
     <comp lib="6" loc="(330,263)" name="Text">
       <a name="text" val="Scissor"/>
     </comp>
     <comp lib="3" loc="(430,390)" name="Comparator">
       <a name="width" val="2"/>
     </comp>
-    <comp lib="1" loc="(160,390)" name="Controlled Buffer"/>
-    <comp lib="5" loc="(820,240)" name="LED"/>
-    <comp lib="5" loc="(990,370)" name="LED"/>
+    <comp lib="5" loc="(860,340)" name="LED"/>
     <comp lib="5" loc="(950,250)" name="LED"/>
-    <comp lib="0" loc="(340,380)" name="Pin">
-      <a name="width" val="2"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="5" loc="(940,400)" name="LED"/>
-    <comp lib="5" loc="(890,280)" name="LED"/>
-    <comp lib="5" loc="(860,380)" name="LED"/>
     <comp lib="5" loc="(910,400)" name="LED"/>
-    <comp lib="5" loc="(870,320)" name="LED"/>
-    <comp lib="5" loc="(790,360)" name="LED"/>
     <comp lib="1" loc="(710,340)" name="OR Gate">
       <a name="inputs" val="3"/>
     </comp>
+    <comp lib="5" loc="(990,290)" name="LED"/>
+    <comp lib="5" loc="(820,240)" name="LED"/>
+    <comp lib="5" loc="(830,260)" name="LED"/>
+    <comp lib="5" loc="(870,320)" name="LED"/>
     <comp lib="0" loc="(340,280)" name="Pin">
       <a name="width" val="2"/>
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="0" loc="(100,390)" name="Clock"/>
-    <comp lib="5" loc="(850,300)" name="LED"/>
-    <comp lib="0" loc="(340,480)" name="Pin">
-      <a name="width" val="2"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="5" loc="(980,310)" name="LED"/>
-    <comp lib="5" loc="(850,360)" name="LED"/>
-    <comp lib="5" loc="(950,310)" name="LED"/>
-    <comp lib="5" loc="(890,230)" name="LED"/>
-    <comp lib="1" loc="(670,240)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="5" loc="(890,200)" name="LED"/>
     <comp lib="5" loc="(920,300)" name="LED"/>
-    <comp lib="5" loc="(820,360)" name="LED"/>
-    <comp lib="5" loc="(950,290)" name="LED"/>
-    <comp lib="5" loc="(830,260)" name="LED"/>
-    <comp lib="6" loc="(333,463)" name="Text">
-      <a name="text" val="Paper"/>
-    </comp>
-    <comp lib="5" loc="(950,230)" name="LED"/>
-    <comp lib="5" loc="(880,400)" name="LED"/>
-    <comp lib="0" loc="(130,480)" name="Pin">
-      <a name="tristate" val="false"/>
-    </comp>
     <comp lib="3" loc="(430,490)" name="Comparator">
       <a name="width" val="2"/>
     </comp>
-    <comp lib="5" loc="(980,350)" name="LED"/>
-    <comp lib="6" loc="(331,361)" name="Text">
-      <a name="text" val="Rock"/>
-    </comp>
-    <comp lib="5" loc="(990,290)" name="LED"/>
-    <comp lib="5" loc="(970,390)" name="LED"/>
-    <comp lib="5" loc="(1000,270)" name="LED"/>
-    <comp lib="3" loc="(430,290)" name="Comparator">
-      <a name="width" val="2"/>
-    </comp>
-    <comp lib="5" loc="(840,280)" name="LED"/>
+    <comp lib="5" loc="(850,360)" name="LED"/>
+    <comp lib="5" loc="(950,290)" name="LED"/>
     <comp lib="4" loc="(240,400)" name="Random">
       <a name="width" val="2"/>
     </comp>
-    <comp lib="5" loc="(890,300)" name="LED"/>
-    <comp lib="5" loc="(860,340)" name="LED"/>
-    <comp lib="5" loc="(890,260)" name="LED"/>
+    <comp lib="6" loc="(333,463)" name="Text">
+      <a name="text" val="Paper"/>
+    </comp>
+    <comp lib="0" loc="(130,480)" name="Pin">
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="5" loc="(850,300)" name="LED"/>
+    <comp lib="5" loc="(820,360)" name="LED"/>
+    <comp lib="5" loc="(890,230)" name="LED"/>
+    <comp lib="3" loc="(430,290)" name="Comparator">
+      <a name="width" val="2"/>
+    </comp>
+    <comp lib="5" loc="(940,400)" name="LED"/>
+    <comp lib="5" loc="(860,380)" name="LED"/>
+    <comp lib="5" loc="(950,310)" name="LED"/>
   </circuit>
 </project>

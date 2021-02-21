@@ -1,9 +1,8 @@
 # Logic Design and Experiments (논리 회로 및 실험)
-## 2020 봄학기, 한림대학교 소프트웨어융합대학 
+## 202 봄학기, 한림대학교 소프트웨어융합대학 
 *  *  *
 
 ## [알림] Github 수업 페이지 오픈
-## [논리 회로 실습을 위한 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
 ## 질문은 [Issues] 생성을 이용해주세요!
 
 *  *  *

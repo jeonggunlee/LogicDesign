@@ -34,7 +34,7 @@
 
 ## 강의 스케줄 및 자료/노트
    - **Chapter 1 :: From Zero to One (제로에서 하나까지!, [PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch1.pdf))**
-      - 1주차 / 2월 26일: 수업 소개: 왜 논리회로를 공부해야할까 ?
+      - 1주차 / 3월 2일: 수업 소개: 왜 논리회로를 공부해야할까 ?
          - 인공지능, IoT (사물인터넷) 시대에 논리회로 및 컴퓨터 구조에 대한 이해는 왜 필요한가?
          - Cloud 컴퓨팅 회사들은 왜 하드웨어 칩을 데이터 센터에 집적하는 것일까 ?
          
@@ -56,7 +56,7 @@
             - 고성능 가속기 데모: 인텔® Movidius **Neural Compute Stick** 2
                - [동영상:Deep Learning with Intel](https://www.youtube.com/watch?time_continue=343&v=KuM67WfTXBQ): 프로젝트에 딥러닝을 쉽게 활용하는 방법에 대해서 설명
             
-      - 2주차 / 3월 5일: 수의 표현
+      - 2주차 / 3월 9일: 수의 표현
          - 컴퓨터를 설계하는 가장 기초적인 작업: 데이터의 표현 - 수의 표현 (양수/음수)
             - [자료:수의 표현](https://namu.wiki/w/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EC%88%98%20%ED%91%9C%ED%98%84)
             - [동영상:이진수의 음수개념](https://www.youtube.com/watch?v=TvpBEXOMitE)
@@ -91,22 +91,22 @@
          - [Logisim: 05 인버터 게이트 및 D플립플롭을 활용한 플립플롭의 이해](https://www.youtube.com/watch?v=HbpG0T9Y3N8)
          - [동영상:플립플롭](https://www.youtube.com/watch?v=n7iyMd2NsUk)
          
-- **7주차: 복습의 시간~**
-
-      - 8주차(5월4-8): 유한 상태 기계 (Finite State Machine)
+      - 7주차: 유한 상태 기계 (Finite State Machine)
          - [Logisim: 06 카운터 회로 설계를 통한 순차회로의 이해](https://youtu.be/Cx1Od_c98Q4)
          - [동영상:Digital Logic - State Tables and State Diagrams](https://www.youtube.com/watch?v=2TGfiaCrL2s): 한국어 캡션 활용하기 바랍니다.
+
+      - 8주차: 유한 상태 기계 (Finite State Machine)
       
    - **Chapter 5 :: Digital Building Blocks (회로 빌딩 블록, PPT)**
-      - 9주차-10주차 (5월 11-22): 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
+      - 9주차-10주차: 산술회로 (덧셈기, 뺄셈기, 비교기, ALU, 쉬프터 등)
          - [Logisim: 4비트 덧셈기 만들기](https://www.youtube.com/watch?v=FU6aV_a8NmY&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV&index=4&t=397s)
          - [Logisim: 계층적 회로 설계](https://www.youtube.com/watch?v=CMCtOIVQy-M&index=4&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
-      - 11주차 (5월25-29): Fixed-point (고정소수점) vs Floating-point  (부동소수점)
-      - 11주차 (5월25-29): 메모리 / Logic Array
+      - 11주차: Fixed-point (고정소수점) vs Floating-point  (부동소수점)
+      - 11주차: 메모리 / Logic Array
    - **Chapter 4 :: Hardware Description Languages (하드웨어 설계 언어, HDL, PPT)**
-      - 12주차 - 13주차 (6월 1-12): Verilog HDL 소개
+      - 12주차 - 13주차: Verilog HDL 소개
       
-   - **14주차 (6월 15-19): 기말고사**
+   - **14주차: 기말고사**
    
 ## 실습
    ![Alt text](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/img/openss.png "오픈소스교과목")

@@ -4,6 +4,7 @@
 
 ## [알림] Github 수업 페이지 오픈
 ## 질문은 [Issues] 생성을 이용해주세요!
+## 수업에 사용할 Logisim 회로 시뮬레이터가 궁금한 학생은 [Youtube](https://www.youtube.com/watch?v=c4lxNQltmh4&list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV) 참고해주세요!
 
 *  *  *
 
